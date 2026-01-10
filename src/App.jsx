@@ -8,6 +8,7 @@ import PeoplePage from "./Landing/PeoplePage";
 import ServicesPage from "./Landing/ServicesPage";
 import ContactPage from "./Landing/ContactPage";
 import EventsPage from "./Landing/EventsPage";
+import ResearchPage from "./Landing/ResearchPage";
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
         <Route path="/our-firm" element={<OurFirmPage />} />
         <Route path="/people" element={<PeoplePage />} />
         <Route path="/services" element={<ServicesPage />} />
-        <Route path="/research" element={<OurFirmPage />} />
+        <Route path="/research" element={<ResearchPage />} />
         <Route path="/events" element={<EventsPage />} />
         <Route path="/contact" element={<ContactPage />} />
       </Routes>

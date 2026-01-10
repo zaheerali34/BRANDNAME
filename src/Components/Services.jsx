@@ -6,7 +6,7 @@ function Services() {
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: `url('./People/one.jpg')`,
+            backgroundImage: `url('./Service/one.jpg')`,
           }}
         >
           <div className="absolute inset-0 bg-[#0a1a2f]/70">

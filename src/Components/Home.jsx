@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 const backgroundImages = [
   "01.jpg",
   "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-  "https://images.unsplash.com/photo-1542223189-67a03fa0f0bd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+  "two.jpg",
 ];
 
 function Home() {

@@ -1,8 +1,15 @@
 import React from 'react'
+import Contact from '../Components/Contact'
+import SignumWebsite from '../Components/SignumWebsite'
+import SignumContact from '../Components/SignumContact'
 
 function ContactPage() {
   return (
-    <div>ContactPage</div>
+    <>
+      <Contact />
+      <SignumContact />
+      <SignumWebsite />
+    </>
   )
 }
 
