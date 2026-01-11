@@ -8,12 +8,12 @@ function Header() {
     setMeun(!meun);
   };
   return (
-    <header className="fixed top-0 left-0 w-full z-20 max-md:bg-zinc-800/70 pt-2">
-      <nav className="max-w-8xl mx-auto sm:px-6 lg:px-8">
+    <header className="w-full fixed top-0 left-0 z-20 max-md:bg-zinc-800/70">
+      <nav className="py-6 px-20 max-lg:px-10 max-md:px-6 max-sm:px-4">
         <div className="flex items-center justify-between pb-4">
           <div className="shrink-0">
             <NavLink to="/">
-              <div className="p-12 max-md:p-4 flex flex-col leading-none ">
+              <div className="flex flex-col leading-none ">
                 <span className="text-[30px] tracking-[0.2em] font-serif uppercase text-white max-sm:text-[15px]">
                   BRANDNAME
                 </span>
@@ -120,7 +120,7 @@ function Header() {
           </div>
 
           {meun && (
-            <div className="absolute top-17.5 left-1/2 -translate-x-1/2 bg-[#3d4559b4] w-[70%] md:w-75 p-10 max-md:block hidden animate-in fade-in slide-in-from-top-2 duration-500 ease-out">
+            <div className="absolute top-17.5 left-1/2 -translate-x-1/2 bg-[#3d4559b4] w-[70%] md:w-75 max-sm:w-full p-10 max-md:block hidden animate-in fade-in slide-in-from-top-2 duration-500 ease-out">
               <div className="flex flex-col space-y-4">
                 <NavLink
                   to={"/our-firm"}
