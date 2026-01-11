@@ -1,8 +1,6 @@
-import React from 'react'
-
 function Leadership() {
   return (
-     <div className="relative h-[300px] md:h-[260px] w-full">
+     <div className="relative h-75 md:h-65 w-full">
         <div
           className="absolute inset-0 bg-cover bg-center"
           style={{
@@ -10,7 +8,7 @@ function Leadership() {
           }}
         >
           <div className="absolute inset-0 bg-[#0a1a2f]/70">
-            <h1 className="text-white text-[3rem] max-sm:text-[2rem] max-sm:px-[5rem] pt-[10rem] px-[10rem]">
+            <h1 className="text-white text-[3rem] max-sm:text-[2rem] max-sm:px-20 pt-40 px-40">
               Leadership Team
             </h1>
           </div>

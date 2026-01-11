@@ -2,136 +2,136 @@
   "additionalTeam": [
     {
       "id": 1,
-      "name": "Charles Myers",
-      "role": "CHAIRMAN AND FOUNDER",
-      "image": "./People/1.webp",
-      "bio": "Charles Myers is Chairman and Founder of Signum Global Advisors, the leading geopolitical risk firm headquartered in New York and London with five additional offices around the world."
+      "name": "John Doe",
+      "role": "EXECUTIVE DIRECTOR",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=400&h=400&fit=crop",
+      "bio": "John Doe is a seasoned executive with over 20 years of experience in global strategy and leadership. He has successfully led numerous international projects across multiple continents."
     },
     {
       "id": 2,
-      "name": "Andrew Bishop",
-      "role": "GLOBAL HEAD OF POLICY RESEARCH",
-      "image": "./People/2.jpg",
-      "bio": "Andrew Bishop, Senior Partner and global head of policy research at Signum Global Advisors, is an established political analyst with a 15-year track record of advising institutional investors, corporates and governments on political risks in developed, emerging, and frontier markets. Andrew is also head of Signum's Washington, D.C. office."
+      "name": "Jane Smith",
+      "role": "HEAD OF OPERATIONS",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=400&h=400&fit=crop",
+      "bio": "Jane Smith specializes in streamlining operational workflows and enhancing organizational efficiency. She oversees the daily logistics and management of our global offices."
     },
     {
       "id": 3,
-      "name": "Lew Lukens",
-      "role": "SENIOR PARTNER",
-      "image": "./People/3.jpg",
-      "bio": "Lew Lukens, Senior Partner is head of Signum's San Francisco office. He previously served for 30 years as a US Foreign Service officer, representing the US overseas across five administrations and five continents."
+      "name": "Robert Wilson",
+      "role": "STRATEGY CONSULTANT",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=400&h=400&fit=crop",
+      "bio": "Robert Wilson provides expert advice on market entry and sustainable growth. He has a background in economic research and has worked with various Fortune 500 companies."
     },
     {
       "id": 4,
-      "name": "Elliot Miller",
-      "role": "PARTNER",
-      "image": "./People/4.jpg",
-      "bio": "Elliot has built his career working with multinational companies, government stakeholders, and diplomatic missions. He is experienced in developing strategic partnerships, advising corporate clients, and convening dialogue between business leaders and policymakers."
+      "name": "Emily Chen",
+      "role": "SENIOR ANALYST",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=400&h=400&fit=crop",
+      "bio": "Emily Chen focuses on data-driven analysis and predictive modeling. Her expertise helps clients understand complex market trends and emerging technological shifts."
     },
     {
       "id": 5,
-      "name": "Thomas Fitzgerald",
-      "role": "CHIEF OPERATING OFFICER",
-      "image": "./People/5.jpg",
-      "bio": "Thomas Fitzgerald, Partner and Chief Operating Officer, joined Signum Global Advisors in 2025. Based in the New York City office, Thomas leads all operational processes throughout the firm globally."
+      "name": "Michael Brown",
+      "role": "CHIEF TECHNOLOGY OFFICER",
+      "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=400&h=400&fit=crop",
+      "bio": "Michael Brown leads our digital transformation initiatives. He is responsible for implementing secure and innovative tech solutions across the organization's network."
     },
     {
       "id": 6,
-      "name": "Tom MacDonald",
-      "role": "PARTNER",
-      "image": "./People/6.jpg",
-      "bio": "Partner at Signum Global Advisors, Tom focuses on supporting the firm's corporate clients across Europe and beyond, helping them navigate geopolitical and policy developments that shape their markets. He also contributes to Signum's global events and client engagement initiatives. Tom is based in London."
+      "name": "Sarah Jenkins",
+      "role": "GLOBAL PARTNER",
+      "image": "https://images.unsplash.com/photo-1567532939604-b6b5b0ad2f04?q=80&w=400&h=400&fit=crop",
+      "bio": "Sarah Jenkins manages our European partnerships and client relations. She has extensive experience in international law and diplomatic communication."
     },
     {
       "id": 7,
-      "name": "Mingiyan Shalkhakov",
-      "role": "PARTNER",
-      "image": "./People/7.jpg",
-      "bio": "Mingiyan Shalkhakov, Partner, is a member of the sales and client services team at Signum Global Advisors with a focus on EMEA institutional investors and financial services companies. Based in London, Mingiyan has over 10 years of experience working with public and private sector investment institutions."
+      "name": "David Miller",
+      "role": "FINANCIAL ADVISOR",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&h=400&fit=crop",
+      "bio": "David Miller oversees fiscal planning and investment strategies. He works closely with institutional investors to ensure long-term portfolio stability and growth."
     },
     {
       "id": 8,
-      "name": "Sophie Laurence",
-      "role": "ASSOCIATE",
-      "image": "./People/8.jpg",
-      "bio": "Sophie Laurence, Associate, started her career at Signum Global Advisors as a Summer Intern in 2023, and returned full-time after graduating from Amherst College in 2024 with a B.A. in Political Science and International Relations, with Computer Science courses including A.I. and cyberpolitics."
+      "name": "Lisa Wang",
+      "role": "RESEARCH ASSOCIATE",
+      "image": "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=400&h=400&fit=crop",
+      "bio": "Lisa Wang specializes in political science and market research. She joined the team to assist in gathering insights on legislative changes and global policy."
     },
     {
       "id": 9,
-      "name": "Annette Detmer Acar",
-      "role": "PARTNER",
-      "image": "./People/9.jpg",
-      "bio": "Annette Detmer Acar, Partner, is part of the London team, where she's based and leads business development in Europe with a specific focus on the DACH region."
+      "name": "James Taylor",
+      "role": "BUSINESS DEVELOPMENT",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&h=400&fit=crop",
+      "bio": "James Taylor is responsible for expanding our global footprint and identifying new commercial opportunities in emerging and frontier markets."
     },
     {
       "id": 10,
-      "name": "Stefan Griffiths",
-      "role": "PARTNER",
-      "image": "./People/10.jpg",
-      "bio": "Stefan Griffiths, Partner, is head of EMEA markets sales and client services for Signum Global Advisors based in London. Prior to joining Signum, Stefan worked with Oxford Economics and Lloyds Banking Group in client engagement, business development and communications management."
+      "name": "Amanda Ross",
+      "role": "COMMUNICATIONS LEAD",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&h=400&fit=crop",
+      "bio": "Amanda Ross manages external communications and public relations. She ensures that our brand message is consistent and impactful across all media channels."
     },
     {
       "id": 11,
-      "name": "Matthew Mullman",
-      "role": "SENIOR ANALYST, GLOBAL MACRO",
-      "image": "./People/11.jpg",
-      "bio": "Matthew Mullman, Senior Analyst for Global Macro at Signum Global Advisors, has nearly a decade of experience covering geopolitical developments across developed and emerging markets."
+      "name": "Kevin White",
+      "role": "MACRO ANALYST",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=400&h=400&fit=crop",
+      "bio": "Kevin White analyzes global macroeconomic trends. His research provides a deep dive into inflation, interest rates, and currency fluctuations."
     },
     {
       "id": 12,
-      "name": "Jordan Silberfeld",
-      "role": "PARTNER | HEAD OF MENA CLIENT SERVICES",
-      "image": "./People/12.jpg",
-      "bio": "Partner and Head of MENA Client Services for Signum Global Advisors, Jordan helps the firm's engagement with institutional investors and other financial institutions, as well as spearheads certain strategic corporate development initiatives. Jordan is based in Dubai."
+      "name": "Sophia Martinez",
+      "role": "CLIENT SERVICES HEAD",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&h=400&fit=crop",
+      "bio": "Sophia Martinez ensures that our clients receive the highest level of support. She leads the engagement team for the MENA region from our Dubai hub."
     },
     {
       "id": 13,
-      "name": "Rafael Ch",
-      "role": "PARTNER | SENIOR ANALYST",
-      "image": "./People/13.jpg",
-      "bio": "Rafael Ch is Partner and Senior Analyst for Latin America and Emerging Markets at Signum Global Advisors, based in NYC. With over a decade of experience, he advises on geoeconomics, macro-financial, and political risks for a range of clients including institutional investors, development banks, corporates, and governments. Rafael's expertise focuses on the impact of political frictions on asset pricing, especially in fixed-income, FX, and ESG investments."
+      "name": "Chris Anderson",
+      "role": "ESG SPECIALIST",
+      "image": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=400&h=400&fit=crop",
+      "bio": "Chris Anderson advises on Environmental, Social, and Governance risks. He helps clients align their investment strategies with modern sustainability standards."
     },
     {
       "id": 14,
-      "name": "Nicholas FitzRoy",
-      "role": "PARTNER | SENIOR EUROPE ANALYST",
-      "image": "./People/14.jpg",
-      "bio": "Nicholas FitzRoy, Partner and Senior Europe Analyst at Signum Global Advisory, has a decade of experience producing political and economic analysis, mainly for corporates and governments."
+      "name": "Laura Bennett",
+      "role": "POLICY EXPERT",
+      "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=400&h=400&fit=crop",
+      "bio": "Laura Bennett has a decade of experience in legislative analysis. She tracks policy developments in Brussels and provides clarity on regulatory changes."
     },
     {
       "id": 15,
-      "name": "George Pollack",
-      "role": "SENIOR ANALYST, U.S. POLITICS",
-      "image": "./People/15.jpg",
-      "bio": "George Pollack is a Senior Analyst for U.S. Policy with Signum in Washington D.C., where he contributes to domestic policy research and helps advise clients on understanding complex legislative, regulatory, and executive developments."
+      "name": "Daniel Kim",
+      "role": "LEGAL COUNSEL",
+      "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?q=80&w=400&h=400&fit=crop",
+      "bio": "Daniel Kim handles all legal matters and compliance for the firm. He ensures that our operations meet international standards and local regulations."
     },
     {
       "id": 16,
-      "name": "David Pagliaro",
+      "name": "Patricia Gray",
       "role": "SENIOR PARTNER",
-      "image": "./People/16.jpeg",
-      "bio": "David Pagliaro, Senior Partner, is Signum's Global Head of Client Services. Based in London, David oversees the coordination and delivery of the firm's commercial efforts and leads the business development team globally."
+      "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?q=80&w=400&h=400&fit=crop",
+      "bio": "Patricia Gray oversees global business development. She has a strong track record of building long-term relationships with major financial institutions."
     },
     {
       "id": 17,
-      "name": "Regina Ewers",
-      "role": "PARTNER",
-      "image": "./People/17.jpg",
-      "bio": "Regina Ewers, Partner, is a member of the sales and client service team for Signum Global Advisors. Regina has over 15 years experience in financial services on the buy-side and sell-side."
+      "name": "Steven Hall",
+      "role": "MARKET STRATEGIST",
+      "image": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?q=80&w=400&h=400&fit=crop",
+      "bio": "Steven Hall focuses on market volatility and risk mitigation. He provides actionable insights for traders and portfolio managers in high-pressure environments."
     },
     {
       "id": 18,
-      "name": "Jason Press",
-      "role": "SENIOR PARTNER",
-      "image": "./People/18.png",
-      "bio": "Jason Press, Senior Partner focuses on client relationships for Signum Global Advisors. With more than 20 years in global markets, he works with a wide variety of financial institutions and corporations providing insights and forecasting how political and global macro developments affect investment portfolios and business strategies."
+      "name": "Michelle Young",
+      "role": "PORTFOLIO MANAGER",
+      "image": "https://images.unsplash.com/photo-1594744803329-a584afbca9df?q=80&w=400&h=400&fit=crop",
+      "bio": "Michelle Young has 15 years of experience managing complex portfolios. She uses our proprietary research to optimize asset allocation for clients."
     },
     {
       "id": 19,
-      "name": "Paul LoGiudice",
-      "role": "PARTNER",
-      "image": "./People/19.jpg",
-      "bio": "Paul LoGiudice, Partner, is a member of the sales and client services team for Signum Global Advisors. Based in Boston, Paul has over 25 years of experience in institutional equities, covering both US and International markets."
+      "name": "Brian Collins",
+      "role": "REGIONAL MANAGER",
+      "image": "https://images.unsplash.com/photo-1506803682981-6e718a9dd3ee?q=80&w=400&h=400&fit=crop",
+      "bio": "Brian Collins leads our Boston-based team. He specializes in institutional equities and has a deep understanding of the North American financial landscape."
     }
   ]
 }

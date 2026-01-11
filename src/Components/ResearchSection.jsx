@@ -3,31 +3,32 @@ import SignumFullWebsite from "./SignumFullWebsite";
 
 const ResearchSection = () => {
   const expertise = [
-    "Geopolitics",
-    "Fiscal & Monetary",
-    "Interest Rates",
-    "Currencies",
-    "Elections",
-    "Trade Policy",
-    "Global Equities",
-    "Asset Allocation",
-    "Legislation",
-    "Security & Defense",
-    "Emerging Technology",
-    "Blockchain",
-    "Regulation",
-    "Infrastructure",
-    "Cyberterrorism",
-    "Cryptocurrencies",
+    "Mathematics",
+    "Social Science",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "English Lit",
+    "Economics",
+    "World History",
+    "Computer Science",
+    "Arts & Design",
+    "Data Analytics",
+    "Robotics",
+    "Environmental Studies",
+    "Physical Education",
+    "Foreign Languages",
+    "Public Speaking",
   ];
 
   return (
     <section className="bg-[#162136] py-20 px-6 md:px-20 font-serif text-white">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-center text-3xl md:text-4xl font-normal mb-10 tracking-wide">
-          Global Areas of Expertise
+          Our Academic Disciplines
         </h2>
 
+        {/* Subjects Grid */}
         <div className="grid grid-cols-2 md:grid-cols-4 border border-white/10 mb-20">
           {expertise.map((item, index) => (
             <div
@@ -39,12 +40,13 @@ const ResearchSection = () => {
           ))}
         </div>
 
+        {/* Feature Box */}
         <div className="bg-[#1c2a44] p-8 md:p-12 flex flex-col md:flex-row gap-10 items-center border border-white/5 shadow-2xl">
-          {/* Image Side */}
+          {/* Image Side - Educational Image */}
           <div className="w-full md:w-1/2 overflow-hidden">
             <img
-              src="./Research.jpg"
-              alt="Downing Street"
+              src="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=600"
+              alt="Classroom Research"
               className="w-full h-[300px] object-cover"
             />
           </div>
@@ -52,16 +54,17 @@ const ResearchSection = () => {
           {/* Text Side */}
           <div className="w-full md:w-1/2">
             <h3 className="text-3xl font-normal mb-2 tracking-tight">
-              Policy Research & Analytics
+              Educational Excellence
             </h3>
             <div className="w-full h-[1.5px] bg-[#7fb5f5] mb-8"></div>
 
             <ul className="space-y-4">
               {[
-                "Generate the highest quality independent, predictive policy research",
-                "Assess and anticipate the impact of actions by lawmakers in Washington, Westminster, Brussels, and elsewhere",
-                "Deliver company and portfolio specific insights to meet key commercial objectives",
-                "Provide greater predictability in times of uncertainty",
+                "Generate the highest quality pedagogical resources and academic materials",
+                "Assess and anticipate the learning needs of students across different grades",
+                "Deliver specialized mentorship programs to meet individual student goals",
+                "Provide a stable learning environment in times of academic transition",
+                "Empower students with critical thinking and problem-solving skills",
               ].map((point, i) => (
                 <li key={i} className="flex items-start group">
                   <span className="mr-3 mt-2 h-1.5 w-1.5 rounded-full bg-white shrink-0 group-hover:bg-[#7fb5f5] transition-colors"></span>
@@ -73,23 +76,25 @@ const ResearchSection = () => {
             </ul>
           </div>
         </div>
+
+        {/* Bottom Cards */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-6 pt-20">
           {[
             {
-              title: "Geopolitics",
-              desc: "Identify key international events and trends, analyze their political and market significance",
+              title: "STEM Education",
+              desc: "Identify key scientific concepts and trends, analyze their practical and research significance for students.",
             },
             {
-              title: "Europe Post-Brexit",
-              desc: "Provide insight and analysis of UK parliamentary process, UK x EU negotiations, and implications",
+              title: "Language Arts",
+              desc: "Provide deep insight into linguistic patterns, creative writing techniques, and literary analysis.",
             },
             {
-              title: "National Policy",
-              desc: "Assess & anticipate domestic policy agendas, party politics and potential outcomes",
+              title: "Civics & Policy",
+              desc: "Assess domestic social structures, governance systems, and their historical outcomes in society.",
             },
             {
-              title: "Emerging Technology",
-              desc: "Forecast regulatory environments affecting 'Big Tech', blockchain and cryptocurrencies",
+              title: "Digital Literacy",
+              desc: "Forecast the impact of emerging technology on modern education, including AI and digital collaboration.",
             },
           ].map((card, i) => (
             <div

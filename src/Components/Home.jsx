@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 const backgroundImages = [
-  "01.jpg",
-  "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
-  "two.jpg",
+  "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+  "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+  "https://images.unsplash.com/photo-1501466044931-62695aada8e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
 ];
 
 function Home() {
@@ -33,22 +33,24 @@ function Home() {
             }`}
             style={{ backgroundImage: `url(${image})` }}
           >
-            <div className="absolute top-0 left-0 w-full h-full bg-black/20"></div>
+            {/* Overlay for better text readability */}
+            <div className="absolute top-0 left-0 w-full h-full bg-black/30"></div>
           </div>
         ))}
       </div>
 
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-white text-center px-4">
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-normal tracking-wider uppercase mb-6 drop-shadow-md">
-          SIGNUM GLOBAL ADVISORS
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-normal tracking-[0.2em] uppercase mb-6 drop-shadow-lg">
+          BRANDNAME
         </h1>
 
-        <h2 className="text-2xl md:text-4xl font-light italic mb-24 drop-shadow-sm">
-          Policy & Strategy
+        <h2 className="text-2xl md:text-2xl font-light italic mb-24 drop-shadow-md">
+           DEMO ADVISORS GROUP
         </h2>
 
         <div className="absolute bottom-10 w-full text-center">
-          <p className="text-xs md:text-sm lg:text-base font-medium tracking-widest uppercase drop-shadow-sm">
+          <div className="max-w-4xl mx-auto h-px bg-white/20 mb-6"></div>
+          <p className="text-[10px] md:text-xs lg:text-sm font-medium tracking-[0.4em] uppercase drop-shadow-sm opacity-80">
             {citiesList}
           </p>
         </div>

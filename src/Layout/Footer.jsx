@@ -3,54 +3,54 @@ import React from "react";
 const Footer = () => {
   const offices = [
     {
-      city: "New York",
+      city: "City Name One",
       address: [
-        "Signum Global Advisors",
-        "1185 Avenue of the Americas",
-        "New York, NY 10036",
-        "+1.212.355.3500",
+        "Demo Company Name",
+        "123 Business Street Road",
+        "State, Country 00000",
+        "+0.000.000.0000",
       ],
     },
     {
-      city: "London",
+      city: "City Name Two",
       address: [
-        "Signum Global Advisors",
-        "78-79 Pall Mall",
-        "London, SW1Y 5ES",
-        "United Kingdom",
+        "Demo Company Name",
+        "456 Global Avenue Lane",
+        "Postal Code, Region",
+        "International Office",
       ],
     },
     {
-      city: "Washington",
-      address: ["Signum Global Advisors", "Washington, D.C."],
+      city: "City Name Three",
+      address: ["Demo Company Name", "Region Headquarters"],
     },
     {
-      city: "Boston",
-      address: ["Signum Global Advisors", "Boston, MA"],
+      city: "City Name Four",
+      address: ["Demo Company Name", "Branch Location"],
     },
     {
-      city: "San Francisco",
-      address: ["Signum Global Advisors", "San Francisco, CA"],
+      city: "City Name Five",
+      address: ["Demo Company Name", "Western Division"],
     },
     {
-      city: "Mexico City",
-      address: ["Signum Global Advisors", "Mexico City, Mexico"],
+      city: "City Name Six",
+      address: ["Demo Company Name", "Pacific Central"],
     },
     {
-      city: "Dubai, U.A.E.",
-      address: ["Signum Global Advisors", "Dubai, United Arab Emirates"],
+      city: "City Name Seven",
+      address: ["Demo Company Name", "Middle East Hub"],
     },
   ];
 
   const navLinks = [
-    "HOME",
-    "OUR FIRM",
-    "PEOPLE",
-    "SERVICES",
-    "RESEARCH",
-    "EVENTS",
-    "MEDIA",
-    "CONTACT",
+    "LINK ONE",
+    "LINK TWO",
+    "LINK THREE",
+    "LINK FOUR",
+    "LINK FIVE",
+    "LINK SIX",
+    "LINK SEVEN",
+    "LINK EIGHT",
   ];
 
   return (
@@ -93,7 +93,7 @@ const Footer = () => {
 
       <div className="bg-[#08101d] py-8 px-10 border-t border-white/5">
         <p className="text-[11px] tracking-widest text-gray-400">
-          Copyright 2023. Designed By IMG
+          Copyright 2026. Designed By Demo Team
         </p>
       </div>
     </footer>

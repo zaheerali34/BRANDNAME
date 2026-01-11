@@ -1,46 +1,39 @@
+import React from "react";
+
 function SignumDesign() {
   return (
     <div className="w-full bg-[#0b162a] text-white font-serif p-8 md:p-24 selection:bg-[#7fb5f5] selection:text-[#0b162a]">
         <div className="w-full grid grid-cols-1 md:grid-cols-2 gap-10">
           <div className="space-y-6 bg-[#222941] p-10 shadow-2xl">
-            <h2 className="text-4xl font-normal mb-8">Washington, DC</h2>
+            <h2 className="text-4xl font-normal mb-8">Oxford / London Hub</h2>
             <div className="space-y-4 text-[13px] tracking-wide font-light opacity-90 leading-relaxed uppercase">
-              <p>Vice President Kamala Harris</p>
-              <p>Speaker Nancy Pelosi (D-CA) – <span className="italic opacity-60 font-serif normal-case text-sm">Third in line</span></p>
-              <p>Senator Cory Booker (D-NJ) – <span className="italic opacity-60 font-serif normal-case text-sm">Commerce, Science, Transportation, Foreign Relations</span></p>
-              <p>Senator Richard Blumenthal (D-CT) – <span className="italic opacity-60 font-serif normal-case text-sm">Judiciary Committee</span></p>
-              <p>Senator Marsha Blackburn (R-TN) – <span className="italic opacity-60 font-serif normal-case text-sm">Judiciary, Finance, Commerce Committees</span></p>
-              <p>Senator Jerry Moran (R-KS) – <span className="italic opacity-60 font-serif normal-case text-sm">Appropriations</span></p>
-              <p>Senator Tammy Duckworth (D-IL) – <span className="italic opacity-60 font-serif normal-case text-sm">Armed Services</span></p>
-              <p>Senator Kirsten Gillibrand (D-NY) – <span className="italic opacity-60 font-serif normal-case text-sm">Appropriations, Health and Energy</span></p>
-              <p>Senator Christopher Coons (D-DE) – <span className="italic opacity-60 font-serif normal-case text-sm">Ethics, Appropriations and Foreign Relations</span></p>
-              <p>Senator Tammy Baldwin (D-WI) – <span className="italic opacity-60 font-serif normal-case text-sm">Energy, Commerce Security Committees</span></p>
-              <p>Congressman Adam Schiff (D-CA) – <span className="italic opacity-60 font-serif normal-case text-sm">Chairman of the House Intelligence Committee</span></p>
-              <p>Congressman Jim Himes (D-CT) – <span className="italic opacity-60 font-serif normal-case text-sm">Financial Services, Intelligence</span></p>
-              <p>Congresswoman Liz Cheney (R-WY) – <span className="italic opacity-60 font-serif normal-case text-sm">Chair, Appropriations Subcommittee on Agriculture, Rural Development & Food and Drug Administration</span></p>
+              <p>Prof. Andrew Hamilton – <span className="italic opacity-60 font-serif normal-case text-sm">Vice-Chancellor Emeritus</span></p>
+              <p>Dr. Elizabeth Frazer – <span className="italic opacity-60 font-serif normal-case text-sm">Head of Politics & International Relations</span></p>
+              <p>Sir John Bell – <span className="italic opacity-60 font-serif normal-case text-sm">Regius Professor of Medicine</span></p>
+              <p>Prof. Louise Richardson – <span className="italic opacity-60 font-serif normal-case text-sm">Expert in Global Security & Terrorism</span></p>
+              <p>Dr. Ngaire Woods – <span className="italic opacity-60 font-serif normal-case text-sm">Dean of Blavatnik School of Government</span></p>
+              <p>Prof. Timothy Garton Ash – <span className="italic opacity-60 font-serif normal-case text-sm">European Studies & Political History</span></p>
+              <p>Dr. Janina Ramirez – <span className="italic opacity-60 font-serif normal-case text-sm">History of Art & Cultural Heritage</span></p>
+              <p>Prof. Richard Dawkins – <span className="italic opacity-60 font-serif normal-case text-sm">Evolutionary Biology & Science Public Understanding</span></p>
+              <p>Dr. Peter Frankopan – <span className="italic opacity-60 font-serif normal-case text-sm">Director of Oxford Centre for Byzantine Research</span></p>
+              <p>Prof. Roger Penrose – <span className="italic opacity-60 font-serif normal-case text-sm">Mathematical Physics & Nobel Laureate</span></p>
             </div>
           </div>
 
           <div className=" space-y-6 bg-[#222941] p-10 shadow-2xl">
-            <h2 className="text-4xl font-normal mb-8">New York / Boston</h2>
+            <h2 className="text-4xl font-normal mb-8">Global Faculty Hub</h2>
             <div className="space-y-4 text-[13px] tracking-wide font-light opacity-90 leading-relaxed uppercase">
-              <p>Vice President Kamala Harris</p>
-              <p>U.S. Secretary of Transportation Pete Buttigieg</p>
-              <p>Senator Cory Booker (D-NJ)</p>
-              <p>Senator Kirsten Gillibrand (D-NY)</p>
-              <p>Senator Ed Markey (D-MA)</p>
-              <p>Governor John Hickenlooper (D-CO)</p>
-              <p>Governor Jay Inslee (D-WA)</p>
-              <p>Governor Steve Bullock (D-MT)</p>
-              <p>Congressman Joe Kennedy (D-MA)</p>
-              <p>Congressman Eric Swalwell (D-CA)</p>
-              <p>Congresswoman Tulsi Gabbard (D-HI)</p>
-              <p>Congressman Beto O’Rourke (D-TX)</p>
-              <p>Joint Chiefs of Staff Norty Schwartz</p>
-              <p>Greg Schultz – <span className="italic opacity-60 font-serif normal-case text-sm text-[#7fb5f5]">Biden Campaign Manager</span></p>
-              <p>Tom Steyer – <span className="italic opacity-60 font-serif normal-case text-sm">2020 US Presidential Candidate</span></p>
-              <p>Greg Autry – <span className="italic opacity-60 font-serif normal-case text-sm">Author Death by China, White House Advisor</span></p>
-              <p>Fred Hochberg – <span className="italic opacity-60 font-serif normal-case text-sm">Author Trade Is Not a Four-Letter Word</span></p>
+              <p>Prof. Lawrence Bacow – <span className="italic opacity-60 font-serif normal-case text-sm">President of Harvard University</span></p>
+              <p>Dr. Steven Pinker – <span className="italic opacity-60 font-serif normal-case text-sm">Cognitive Psychology & Linguistics Lead</span></p>
+              <p>Prof. Martha Minow – <span className="italic opacity-60 font-serif normal-case text-sm">Jurisprudence & Legal Theory Expert</span></p>
+              <p>Dr. Henry Louis Gates Jr. – <span className="italic opacity-60 font-serif normal-case text-sm">Director of African & African American Research</span></p>
+              <p>Prof. Amartya Sen – <span className="italic opacity-60 font-serif normal-case text-sm">Economics & Social Justice Nobel Laureate</span></p>
+              <p>Dr. Danielle Allen – <span className="italic opacity-60 font-serif normal-case text-sm">Ethics & Public Policy Director</span></p>
+              <p>Prof. Michael Sandel – <span className="italic opacity-60 font-serif normal-case text-sm">Political Philosophy & Justice Seminar</span></p>
+              <p>Dr. Esther Duflo – <span className="italic opacity-60 font-serif normal-case text-sm">Poverty Alleviation & Development Economics</span></p>
+              <p>Prof. Noam Chomsky – <span className="italic opacity-60 font-serif normal-case text-sm">Emeritus Professor of Linguistics & Philosophy</span></p>
+              <p>Dr. Robert Kaplan – <span className="italic opacity-60 font-serif normal-case text-sm text-[#7fb5f5]">Leadership & Organizational Strategy</span></p>
+              <p>Prof. Amy Cuddy – <span className="italic opacity-60 font-serif normal-case text-sm">Social Psychology & Behavioral Research</span></p>
             </div>
           </div>
         </div>
@@ -48,4 +41,4 @@ function SignumDesign() {
   )
 }
 
-export default SignumDesign
+export default SignumDesign;
