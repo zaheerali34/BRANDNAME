@@ -7,11 +7,11 @@ function Services() {
           backgroundImage: `url('https://images.pexels.com/photos/256490/pexels-photo-256490.jpeg?auto=compress&cs=tinysrgb&w=1600')`,
         }}
       >
-        <div className="absolute inset-0 bg-[#0a1a2f]/70">
-          <h1 className="text-white text-[3rem] max-sm:text-[2rem] max-sm:px-20 pt-40 px-40">
+        <div className="absolute inset-0 bg-[#0a1a2f]/70 px-40 max-md:px-10">
+          <h1 className="text-white text-[3rem] max-sm:text-[2rem] pt-30">
             Services
           </h1>
-          <p className="text-white font-semibold text-[1rem] px-40">
+          <p className="text-white font-semibold text-[1rem] max-sm:text-[0.5rem] ">
             Our institution provides world-class educational resources and
             personalized mentorship for students and academic professionals. We
             help learners navigate complex subjects through modern teaching
